@@ -1,6 +1,6 @@
 import numpy as np
 from pylab import *
-import IntersectionFinder as intFind
+import intersection_finder as intFind
 # from scipy.optimize import fsolve as sol
 
 # Helper functions--------------------------------------------------------------
