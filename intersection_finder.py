@@ -4,7 +4,7 @@ from pylab import *
 from scipy.ndimage.filters import gaussian_laplace
 from scipy.misc import imfilter
 import numpy.random as rnd
-import Vector_util as vut
+import vector_util as vut
 
 class IntersectionFinder:
 
