@@ -1,4 +1,4 @@
-import Dimension as dim
+import dimension as dim
 # Generic class for vector handling in any dimension, with arbitrary name for each dimension
 import math
 import numpy as np
